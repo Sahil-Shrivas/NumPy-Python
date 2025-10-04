@@ -15,7 +15,19 @@ This project serves as a learning resource for students and professionals who wa
 - Beginner-friendly examples with clear explanations  
 - Demonstrations of vectorized operations and broadcasting  
 - Real-world use cases involving linear algebra and statistics  
-- Well-structured code and notebooks for easy understanding  
+- Well-structured code and notebooks for easy understanding
+
+## 🚀 Getting Started
+Clone the Repository
+git clone https://github.com/Sahil-Shrivas/NumPy-Python.git
+cd NumPy-Python
+
+Install Dependencies
+pip install -r requirements.txt
+
+Launch Jupyter Notebook
+jupyter notebook
+
 
 ---
 
@@ -30,19 +42,4 @@ NumPy-Python/
 ├── requirements.txt    # List of required dependencies
 └── README.md           # Project documentation
 
-
----
-
-
-## 🚀 Getting Started
-
-Clone the Repository
-git clone https://github.com/Sahil-Shrivas/NumPy-Python.git
-cd NumPy-Python
-
-Install Dependencies
-pip install -r requirements.txt
-
-Launch Jupyter Notebook
-jupyter notebook
 
