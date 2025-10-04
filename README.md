@@ -21,14 +21,14 @@ This project serves as a learning resource for students and professionals who wa
 
 ## 🚀 Getting Started
 Clone the Repository
-git clone https://github.com/Sahil-Shrivas/NumPy-Python.git
-cd NumPy-Python
+- git clone https://github.com/Sahil-Shrivas/NumPy-Python.git
+- cd NumPy-Python
 
 Install Dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 Launch Jupyter Notebook
-jupyter notebook
+- jupyter notebook
 
 
 ---
@@ -43,6 +43,7 @@ NumPy-Python/
 ├── data/               # Sample data files (if available)
 ├── requirements.txt    # List of required dependencies
 └── README.md           # Project documentation
+
 
 
 
