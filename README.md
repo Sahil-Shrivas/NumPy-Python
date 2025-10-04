@@ -17,6 +17,8 @@ This project serves as a learning resource for students and professionals who wa
 - Real-world use cases involving linear algebra and statistics  
 - Well-structured code and notebooks for easy understanding
 
+---
+
 ## 🚀 Getting Started
 Clone the Repository
 git clone https://github.com/Sahil-Shrivas/NumPy-Python.git
@@ -41,5 +43,6 @@ NumPy-Python/
 ├── data/               # Sample data files (if available)
 ├── requirements.txt    # List of required dependencies
 └── README.md           # Project documentation
+
 
 
